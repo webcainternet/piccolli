@@ -1,6 +1,6 @@
 <div style="background-color: #e1e2dd; color: #3b3b3b;">
 
-	<div style="margin: auto; padding: 30px; width:1170px;max-width:100%;list-style:none; transition: none;overflow:hidden;">
+	<div style="margin: auto; padding: 30px 0px; width:1170px;max-width:100%;list-style:none; transition: none;overflow:hidden;">
 		<div style="width: 33.33%; float: left;">
 			<i style="font-size: 36px; float: left; position: absolute; margin-top: 12px;" class="fa fa-thumbs-up" aria-hidden="true"></i>
 			<div style="float: left; margin-left: 50px; width: 100%; font-weight: bold;">Compra 100% segura</div>
