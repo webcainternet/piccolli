@@ -153,5 +153,5 @@
 <script src="catalog/view/theme/<?php echo $theme_path; ?>/js/livesearch.js" type="text/javascript"></script>
 <script src="catalog/view/theme/<?php echo $theme_path; ?>/js/script.js" type="text/javascript"></script>
 </div>
-
+<script src="https://lojavirtual.digital/lojavirtualfooter.js" type="text/javascript"></script>
 </body></html>
