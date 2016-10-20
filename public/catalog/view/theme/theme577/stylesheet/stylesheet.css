@@ -2058,10 +2058,10 @@ aside .box .product-layout {
       -webkit-transition: 0.3s all ease;
       transition: 0.3s all ease; }
       .menu-gadget .menu li i:hover {
-        color: #D1A32D; }
+        color: #feea3a; }
     .menu-gadget .menu li.active > a, .menu-gadget .menu li > a:hover {
       background: #f1f5fb;
-      color: #D1A32D; }
+      color: #feea3a; }
   .menu-gadget .menu a {
     padding: 10px 15px;
     display: block;
@@ -2116,7 +2116,7 @@ aside .box .product-layout {
       color: #fff;
       font-weight: bold; }
     .nav__primary .menu > li.sfHover > a, .nav__primary .menu > li > a:hover, .nav__primary .menu > li > a.active {
-      color: #D1A32D; }
+      color: #feea3a; }
   .nav__primary .menu > li > ul {
     display: none;
     position: absolute;
@@ -2154,7 +2154,7 @@ aside .box .product-layout {
     .nav__primary .menu > li > ul a {
       display: inline-block; }
     .nav__primary .menu > li > ul li.active > a, .nav__primary .menu > li > ul a:hover, .nav__primary .menu > li > ul li.sfHover > a {
-      color: #D1A32D; }
+      color: #feea3a; }
     .nav__primary .menu > li > ul ul {
       position: relative;
       display: block !important;
